@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeleicich.howtocodeinhtml.com/sitemap.xml
